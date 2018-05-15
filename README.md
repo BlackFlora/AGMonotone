@@ -1,6 +1,14 @@
 # AGMonotone
 
+<div align="center">
+<img width=300 src="https://raw.githubusercontent.com/BlackFlora/AGMonotone/master/IMG/0.png">
 
+<br> <br>
+
+<h1> AGMonotone </h1>
+<h3> </h3></div>
+
+<br>
 
 ## Screenshots
 
